@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 20px;
+    color: #000000;
+}
+
+.container {
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+th {
+    background-color: #4a86e8;
+    color: #000000;
+    font-weight: normal;
+}
+
+tbody tr {
+    background-color: #ffffff;
+}
+
+.align-right {
+    text-align: right;
+}
