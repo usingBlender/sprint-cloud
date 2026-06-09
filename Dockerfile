@@ -2,7 +2,6 @@ FROM nginx
 
 WORKDIR /app
 
-COPY index.html /usr/share/nginx/html
-COPY nginx.conf /etc/nginx/nginx.conf
+COPY . .
 
-EXPOSE 8080
+EXPOSE 80
