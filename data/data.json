@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "feel Invincible",
+    "cantor": "Skillet",
+    "categoria": "Rock",
+    "ano": 2016
+  },
+  {
+    "nome": "seu astral",
+    "cantor": "Jorge e Mateus",
+    "categoria": "Sertanejo",
+    "ano": 2013
+  },
+  {
+    "nome": "Would?",
+    "cantor": "Alice in Chains",
+    "categoria": "Rock",
+    "ano": 1992
+  },
+  {
+    "nome": "Oceano",
+    "cantor": "Djavan",
+    "categoria": "MPB",
+    "ano": 1989
+  },
+  {
+    "nome": "Otherside",
+    "cantor": "Red Hot Chili Peppers",
+    "categoria": "Rock",
+    "ano": 1999
+  },
+  {
+    "nome": "Lose Yourself",
+    "cantor": "Eminem",
+    "categoria": "Rap",
+    "ano": 2002
+  }
+]

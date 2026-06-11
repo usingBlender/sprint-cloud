@@ -3,7 +3,7 @@ services:
     build: .
     volumes:
       - ./nginx.conf:/etc/nginx/nginx.conf:ro 
-      - ./data/data.json:/usr/share/nginx/html/data.json
+      - ./data/data.json:/usr/share/nginx/html/data.json:ro
     command: [nginx-debug, '-g', 'daemon off;']
     ports:
      - "8080:80"
